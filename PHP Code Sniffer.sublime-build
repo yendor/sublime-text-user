@@ -1,0 +1,5 @@
+{
+	"cmd": ["phpcs", "--report=emacs", "$file"],
+	"file_regex": "^(...*?):([0-9]*)",
+	"selector": "source.php"
+}
