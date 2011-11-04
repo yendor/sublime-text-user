@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<style type="text/css">
+	${1:	body,
+	html
+	{
+		padding: 0;
+		margin: 0;
+		font-family: Verdana, sans-serif;
+	\}}
+</style>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>style</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
