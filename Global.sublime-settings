@@ -12,6 +12,7 @@
 		"Config",
 		"Google",
 		"Optus",
+		"Setup",
 		"Solaris",
 		"Telstra",
 		"Ubuntu",
@@ -20,6 +21,7 @@
 		"hadi",
 		"perl",
 		"rodneya",
+		"setup",
 		"timestamp"
 	],
 	"theme": "Soda Light.sublime-theme"
