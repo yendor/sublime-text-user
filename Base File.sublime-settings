@@ -1,7 +1,8 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/LAZY.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
-	"font_size": 12,
+	"font_size": 14,
+	"mid_line_tabs": false,
 	"shift_tab_unindent": true,
 	"spell_check": true,
 	"tab_completion": false,
