@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[printf("Memory usage in %s at line %d is %.4f MB<br />\n", __FILE__, __LINE__, memory_get_usage(true)/(1024*1024));]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>memdebug</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
