@@ -1,0 +1,3 @@
+Package Control.sublime-settings
+*.pyc
+*.cache
